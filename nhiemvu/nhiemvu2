@@ -7,9 +7,8 @@
     <body>
         <ul>
             <h2>Thành viên lớp</h2>
-            <li><a href="
-
-</li>
+            <li><a href="nhiemvu/loptruong.html"target="noidung">Lớp trưởng</a></li>
+            <li><a href="nhiemvu/loptruong.html"target="noidung">Lớp trưởng</a></li>
         </ul>
     </body>
 </html>

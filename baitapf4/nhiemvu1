@@ -1,0 +1,12 @@
+<h1> Nội dung yêu thích</h1>
+<h2>Hình ảnh</2>
+<table>
+<tr>
+<td><img src="https://htmediagroup.vn/wp-content/uploads/2024/08/Anh-profile-nam-dep-3-min.jpg.webp"="width="500"></td>
+<td><img src="https://studiochupanhdep.com/Upload/Images/Album/chan-dung-beauty-05.jpg"="width="500"></td>
+</tr>
+<tr>
+    <td><img src="https://cdn-media.sforum.vn/storage/app/media/wp-content/uploads/2024/04/anh-chan-dung-thumbnail.jpg"="width="500"></td>
+<td><img src="https://cellphones.com.vn/sforum/wp-content/uploads/2024/04/anh-chan-dung-111.jpeg"="width="500"></td>
+</tr>
+</table>
